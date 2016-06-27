@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "255514436672",
+    "firebase_url": "https://perguntasaopalestrante.firebaseio.com",
+    "project_id": "perguntasaopalestrante",
+    "storage_bucket": "perguntasaopalestrante.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255514436672:android:632336adb0340947",
+        "android_client_info": {
+          "package_name": "com.emanuelgandrade.perguntasaopalestrante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255514436672-olflp75e3l0sf89tk2to7nvra56ku79k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emanuelgandrade.perguntasaopalestrante",
+            "certificate_hash": "B7DE91987AD6ED35FE74F648AD8664C9A5409E5B"
+          }
+        },
+        {
+          "client_id": "255514436672-khvgp9n6velmr6te598hdsae56tvijna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzmpnxhDQTlU5AnNQe8KiKE1XAnAW_gfA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255514436672-khvgp9n6velmr6te598hdsae56tvijna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
