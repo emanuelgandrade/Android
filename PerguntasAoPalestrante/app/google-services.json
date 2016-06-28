@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "255514436672",
-    "firebase_url": "https://perguntasaopalestrante.firebaseio.com",
-    "project_id": "perguntasaopalestrante",
-    "storage_bucket": "perguntasaopalestrante.appspot.com"
+    "project_number": "1010424074307",
+    "firebase_url": "https://perguntas-ao-palestrante-82346.firebaseio.com",
+    "project_id": "perguntas-ao-palestrante-82346",
+    "storage_bucket": "perguntas-ao-palestrante-82346.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:255514436672:android:632336adb0340947",
+        "mobilesdk_app_id": "1:1010424074307:android:632336adb0340947",
         "android_client_info": {
           "package_name": "com.emanuelgandrade.perguntasaopalestrante"
         }
       },
       "oauth_client": [
         {
-          "client_id": "255514436672-olflp75e3l0sf89tk2to7nvra56ku79k.apps.googleusercontent.com",
+          "client_id": "1010424074307-n9rsr0ha0dckk2t56lej969vnbnpbb6h.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.emanuelgandrade.perguntasaopalestrante",
@@ -23,13 +23,29 @@
           }
         },
         {
-          "client_id": "255514436672-khvgp9n6velmr6te598hdsae56tvijna.apps.googleusercontent.com",
+          "client_id": "1010424074307-q6ouvut8auo1e4u51ke7aq00t7555ftk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emanuelgandrade.perguntasaopalestrante",
+            "certificate_hash": "FB65B80007E7081C36E0983CAF986FBFEBD27462"
+          }
+        },
+        {
+          "client_id": "1010424074307-ujevcvlp68b9p58k229jh3l0r146sst2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emanuelgandrade.perguntasaopalestrante",
+            "certificate_hash": "CE579C1E8B83395AC7F7748535BBE3ADB8516AA1"
+          }
+        },
+        {
+          "client_id": "1010424074307-ur0ui9hg09k61kr2pr27te18s4mul9bc.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAzmpnxhDQTlU5AnNQe8KiKE1XAnAW_gfA"
+          "current_key": "AIzaSyDlLdJ4TYz00zzffD0GscplrK5zCYoLgKc"
         }
       ],
       "services": {
@@ -40,7 +56,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "255514436672-khvgp9n6velmr6te598hdsae56tvijna.apps.googleusercontent.com",
+              "client_id": "1010424074307-ur0ui9hg09k61kr2pr27te18s4mul9bc.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
